@@ -53,4 +53,4 @@ for x in range(17477):
 
 print("[!] Total files : %d"%td)
 print("[!] Files added : %d"%l)
-print("[!] Files not added (Permission Denied): %d"%(td-l))
+print("[!] Files not added : %d"%(td-l))
