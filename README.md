@@ -32,5 +32,5 @@ $ python3 defacer.py
 
 # Contact
 Facebook : https://fb.com/gurkirat.py <br>
-Instagram : gutkirat.py
+Instagram : gutkirat.py <br>
 Email : tbhaxor@gmail.com
