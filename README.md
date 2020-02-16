@@ -31,6 +31,5 @@ $ python3 defacer.py
 ```
 
 # Contact
-Facebook : https://fb.com/gurkirat.py <br>
-Instagram : gutkirat.py <br>
+Facebook : https://fb.com/tbhaxor <br>
 Email : tbhaxor@gmail.com
